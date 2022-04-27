@@ -8,7 +8,9 @@
  * @size 4:3 960px 720px
  * @size 16:9 1280px 720px
  */
+
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,400;0,900;1,200;1,400;1,900&display=swap');
+
 section {
   font-family "Source Sans Pro", Tahoma, "Trebuchet MS", sans-serif;
   font-size: 40px;
